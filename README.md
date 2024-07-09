@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakuknight
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning midjourney promopt
-- 💞️ I’m looking to collaborate on art, music, visual design =
+- 🌱 I’m currently learning python data analytics, midjourney prompt
+- 💞️ I’m looking to collaborate on art, music, creative, design
 - 📫 How to reach me sakuknight@gmail.com
 
 <!---
